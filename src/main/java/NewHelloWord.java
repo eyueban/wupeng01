@@ -7,5 +7,6 @@ public class NewHelloWord {
     @Test
     public void sayHelloWrod() {
         System.out.println("hello word");
+//        输出hello
     }
 }
